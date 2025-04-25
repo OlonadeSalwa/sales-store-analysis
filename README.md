@@ -1,5 +1,3 @@
-# Sales-Store-Analysis
-A Power BI project analyzing retail store sales data from FY 2020–21 to extract insights and visualize trends
 # 🛍️ Sales Store Analysis Project
 
 ## 📌 Project Overview
